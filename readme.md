@@ -40,4 +40,4 @@ The simulation helped establish that:
 ## References
 
 - Original Research Paper: [Data Availability Proofs](http://arxiv.org/abs/1809.09044)
-- Full Analysis: [New Insights on Light Node Requirements](https://forum.celestia.org/)
+- Full Analysis: [Celestia DAS: Reconstruction Simulations and Light Node Requirements](https://forum.celestia.org/t/celestia-das-reconstruction-simulations-and-light-node-requirements/1891)
